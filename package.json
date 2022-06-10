@@ -3,9 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "components": "^0.1.0",
+    "assets": "^3.0.1",
+    "components": "0.1.0",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-icons": "4.4.0",
+    "react-scroll": "1.8.7",
+    "src": "1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
